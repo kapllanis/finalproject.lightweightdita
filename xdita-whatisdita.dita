@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="whatisdita">
+  <title>What is DITA?</title>
+  <shortdesc>An overview of the system from which LwDITA originated.</shortdesc>
+  <body>
+    <p><b>DITA</b> - or, <b>Darwin Information Typing Architechture</b> - is an XML-based authoring tool 
+      used to create and publish technical information into effective deliverables for an audience. 
+      In a technical world, content created on things like Microsoft Word, email, WordPress, or 
+      even HTML is not able to be used and re-used effectively in the future, making the content 
+      ineffeicient and costing your team time and money that they shouldn't have to spend. DITA 
+      is much more versatile, and can be reused not only within DITA, but across multiple platforms. 
+      Content in DITA can be published out seamlessly- without copying and pasting - to PDF, HTML, 
+      PowerPoint, and many forms for mobile devices/applicatons. </p>
+    <p>DITA can be used for any kind of content, but is especially effective for instructional content
+      like user manuals, guides, online help, training materials, proposals, whitepapers, reports, or 
+      even books. Basically, if you are publishing any kindof content or information in a business or
+      academic setting, you can benefit from using DITA. DITA will allow you to expand and improve your 
+      work in the long run, while creating consistant, visually appealing documents for your business. 
+    </p>
+    <p>If you are familiar with XML, you can adapt very easily to DITA, as it serves to conform XML 
+      documents and uses XML tools - however to really tap into the full potential of DITA and get the 
+      most out of your content, you need to understand the additional tools offered in DITA that make 
+      it worth using.</p>
+  </body>
+</topic>
