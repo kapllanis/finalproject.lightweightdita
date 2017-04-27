@@ -5,7 +5,7 @@
   <shortdesc>An overview of the system from which LwDITA originated.</shortdesc>
   <body>
     <p>
-      <image href="images/ditalogo.jpg"
+      <image href="images/ditalogo.jpg"></image>
       <b>DITA</b> - or, <b>Darwin Information Typing Architechture</b> - is an XML-based authoring tool 
       used to create and publish technical information into effective deliverables for an audience. 
       In a technical world, content created on things like Microsoft Word, email, WordPress, or 
