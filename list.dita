@@ -4,8 +4,8 @@
   <title>How to Use the List Element</title>
   <body>
     <p></p>
-    <image href="images/ulimage.png"></image>
+    <image href="images/ulimage.png" width="350"></image>
     <p></p>
-    <image href="images/liimage.png"></image>
+    <image href="images/liimage.png" width="350"></image>
   </body>
 </topic>
