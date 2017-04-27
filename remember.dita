@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="remember">
+ <title>Things to Remember</title>
+ <shortdesc>There are a few things you need to keep in mind while creating content with LwDITA.</shortdesc>
+ <conbody>
+  <p id="audience">Remember to write your content for your AUDIENCE! Think of who will be using your site, and tailor your information to that!</p>
+ </conbody>
+</concept>

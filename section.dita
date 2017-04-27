@@ -3,8 +3,13 @@
 <topic id="topic_kwx_3fk_rz">
   <title>How to Use the "Section" Element</title>
   <body>
+    <section>
     <p>You use a section element in your content when you what to divide your information into groups.  A title for your section is optional.</p>
     <p>Below is an example of how the section element is used with XDITA.</p>
     <image href="images/sectionimage.png"></image>
+  </section>
+  <section>
+    <p conref="remember.dita#remember/audience"/>
+  </section>
   </body>
 </topic>
