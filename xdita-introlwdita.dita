@@ -20,5 +20,10 @@
       such as data, map, navigation title, topic metadata, and topic reference. To comply with the overall
     compatibility of DITA and LwDITA, maps can be represented across XDITA, MDITA, and HDITA, with minor 
     modifications/accomodations. </p>
+    <p>Overall, you will most likely find that LwDITA is the best way to introduce DITA to your company
+      or organization in order to learn how to use the basics before diving right in. Once you truly grasp
+      the basics of LwDITA, you will be better equipped to understand the full DITA standard and get all 
+      that you can out of its capabilities. This guide will dive deeper into the uses of each element in 
+    LwDITA and explain further the uses and benefits.</p>
   </body>
 </topic>
