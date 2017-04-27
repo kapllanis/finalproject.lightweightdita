@@ -2,15 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="ditahistory">
  <title>History of DITA</title>
- <shortdesc>Here you will find a short history of DITA and how it has affected the world of technical communication.</shortdesc>
+ <shortdesc>Here you will find a short history of DITA and how it has affected the world of technical 
+  communication.</shortdesc>
  <conbody>
   <p>With the invention of the <b>XML</b> - or, <b>eXtensible markup language</b> - in the mid 1990's, 
    IBM worked to develop a program through which XML could be processed for documentation. 
    Thus, <b>DITA</b> was born in 2001 to simplify XML and allow it to be used as a language for 
   documentation. The DITA maps were especially significant in that they organized and 
   outlined content like never before. </p>
-  <p>The next addition to DITA was the Open Toolkit, which added domain specialization to the already
+  <p>The next addition to DITA, in 2002, was the Open Toolkit, which added domain specialization to the already
   created topic specialization through a set of XSLT stylesheets. IBM encouraged the integration of 
-  Open Toolkit to publish DITA, and many vendors have followed suit over the years.  </p>
+  Open Toolkit to publish DITA, and many vendors have followed suit over the years.</p>
+  <p></p>
  </conbody>
 </concept>
