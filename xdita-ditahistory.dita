@@ -8,10 +8,11 @@
   <p>
    <image href="images/xml.jpg"></image>
     With the invention of the <b>XML</b> - or, <b>eXtensible markup language</b> - in the mid 1990's, 
-   IBM worked to develop a program through which XML could be processed for documentation. 
+   <b>IBM</b> worked to develop a program through which XML could be processed for documentation. 
    Thus, <b>DITA</b> was born in 2001 to simplify XML and allow it to be used as a language for 
   documentation. The DITA maps were especially significant in that they organized and 
   outlined content like never before. </p>
+  <image href="images/ibm.jpg"></image>
   <p>The next addition to DITA, in 2002, was the <b>Open Toolkit</b>, which added domain specialization 
    to the already created topic specialization through a set of XSLT stylesheets. IBM encouraged the 
    integration of Open Toolkit to publish DITA, and many vendors have followed suit over the years. This
