@@ -10,6 +10,11 @@
     functions than the full DITA, but uses the same syntax.</p>
     <p>LwDITA has only one possible topic that contains a fraction - only double digits - of the 
       element types of the full DITA standard, while the full DITA has 26 document types and over 
-      600 element types.</p>
+      600 element types. While this seems like an incovenience, it is really the basic necessities
+    to get you accquainted with DITA as a whole. LwDITA also supports non-XML formats, similar to DITA.
+    LwDITA currently has three authoring formats - <b>XDITA, HDITA,</b> and <b>MDITA</b> - however it 
+    has the ability to expand to include more authoring formats as well. This goes to show that while 
+    LwDITA may be limited in document and element types, it is not limited in compatibility across
+    platforms and formats.</p>
   </body>
 </topic>
