@@ -12,13 +12,17 @@
   outlined content like never before. </p>
   <p>The next addition to DITA, in 2002, was the <b>Open Toolkit</b>, which added domain specialization 
    to the already created topic specialization through a set of XSLT stylesheets. IBM encouraged the 
-   integration of Open Toolkit to publish DITA, and many vendors have followed suit over the years.</p>
+   integration of Open Toolkit to publish DITA, and many vendors have followed suit over the years. This
+  Toolkit was donated to SourceForge in 2005 where it is continutally maintained by IBM, however it is
+  not a part of the DITA Standards efforts through OASIS.</p>
   <p>The following year, IBM published the second edition of "Developing Quality Technical Information", 
    a great tool for reference about DITA. This edition included in introduction which specified the uses
   of tasks, concepts, references, etc. which had not been done before. One interesting note about this 
   book is that it describes DITA, in detail, serving as an almost completely necessary resource for anyone
   using DITA, yet it never mentions the name "DITA", as IBM was using it internally at the time.</p>
   <p>To make DITA a public product, the "<b>Organization for the Advancement of Structured Information 
-   Standards</b>, or, <b>Oasis</b>, created a committee to explore the standardization of DITA. </p>
+   Standards</b>, or, <b>Oasis</b>, created a committee to explore the standardization of DITA. This 
+  committee includes XML tool vendors, consultants on "Information Architecture and Content Management
+  Systems", and others that work together to maintain the DITA standards as it becomes more widely used.</p>
  </conbody>
 </concept>
