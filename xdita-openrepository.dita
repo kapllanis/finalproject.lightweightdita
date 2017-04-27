@@ -5,6 +5,7 @@
   <shortdesc>Here you will find information about the purpose and people behind the LwDITA open
     repository.</shortdesc>
   <body>
+    <p><image href="images/github.jpg"></image></p>
     <p>Within GitHub, a public repository ( https://github.com/oasis-open/dita-lightweight ) exists 
       to "contain schema files, tools and documents related to developing a specification for a light
       version of DITA. These files will be set up to be as useful as possible for people who want to 
