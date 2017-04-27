@@ -3,8 +3,13 @@
 <topic id="topic_wft_jdk_rz">
   <title>Topic Based Writing in LwDITA</title>
   <body>
-    <p>You can only write in one topic in LwDITA.</p>
-    <p>blah blah blah</p>
-    <p>obvi not done yet</p>
+    <p>LwDITA is a much simpler version of full DITA.  The goals of LwDITA relate to usability - the simpler the the situation, the better it is for LwDITA! </p>
+    <p>What makes LwDITA so simple?  You can only write with two main content models of full DITA.
+      <ol>
+        <li>Maps</li>
+        <li>Topics</li>
+      </ol> 
+    </p>
+    <p>The actual elemental structure of LwDITA slightly changes compared to regular DITA.  Check out our "tags" section to learn about these difference!</p>
   </body>
 </topic>

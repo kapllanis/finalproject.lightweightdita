@@ -2,8 +2,33 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ppl_2fk_rz">
  <title>Tags</title>
- <shortdesc></shortdesc>
+ <shortdesc>An introduction to the different tags and elements featured in LwDITA.</shortdesc>
  <conbody>
-  <p>This will be about the tags you can use with LwDITA.</p>
+  <p>According to the working draft of the Oasis article <i>Lightweight DITA: An Introduction</i>, here is a specific and strict set of elements that you can use within LwDITA.  These are the only elements you can use.
+   <ul>
+    <li>Alternate text</li>
+    <li>Body</li>
+    <li>Cross reference</li>
+    <li>Data</li>
+    <li>Description</li>
+    <li>Figure</li>
+    <li>Footnote</li>
+    <li>Image</li>
+    <li>In-Line Formatting: Bold, italics, underline, super script, subscript</li>
+    <li>Lists: Definition lists,list items, ordered lists, unordered lists </li>
+    <li>Map</li>
+    <li>Note</li>
+    <li>Paragraph</li>
+    <li>Phrase</li>
+    <li>Prolog</li>
+    <li>Preformatted text</li>
+    <li>Section</li>
+    <li>Short description</li>
+    <li>Table</li>
+    <li>Title</li>
+    <li>Topic</li>
+   </ul>
+  </p>
+  <p>We will be looking into two of the most common elements: Section and List.  We will also introduce how to use two useful tools from full DITA - Conref and Keyref. </p>
  </conbody>
 </concept>
