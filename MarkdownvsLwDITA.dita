@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_owb_prq_rz">
+  <title>LwDITA vs. Markdown</title>
+  <body>
+    <p>Markdown is similar to Lightweight DITA, in that, it is very simplified. In fact, Markdown is simplified to a greater extent than lightweight DITA. Markdown contains its own set of limited tags that are quite different from DITA tags; however, they serve the same purpose as LwDITA tags would. Here are some of the basic capabilities of Markdown authoring...</p>
+    <section>
+      <title>Markdown Elements</title>
+      <p><ul>
+        <li>Italics and Bold</li>
+        <li>Headers</li>
+        <li>Links</li>
+        <li>Images</li>
+        <li>Lists</li>
+        <li>Paragraphs</li>
+      </ul></p>
+      <p>While Markdown tags are very basic, they get the job  done, but leave the author with limited options. LwDITA, on the other hand, includes all of these capabilities and more, but it is slightly more complicated. Unlike LwDITA, Markdown does not come with any templates on authoring tools. You are simply provided with a blank space to begin writing your content. </p>
+    </section>
+  </body>
+</topic>

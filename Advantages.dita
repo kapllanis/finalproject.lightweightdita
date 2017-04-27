@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qhy_zbr_pz">
+  <title>Advantages of Lightweight DITA</title>
+  <body>
+    <p>Lightweight DITA is designed to make the adoption and use of DITA significantly easier for
+      the author.  Lightweight DITA is a slimmed-down, condensed version of DITA that highlights the
+      basic necessary functions for producing online content. Here are some of its major
+      advantages!</p>
+   <section>
+     <title>Key Advantages</title>
+     <p><ul>
+       <li>41 element types</li>
+       <li>Support for XDITA, HDITA, and MDITA</li>
+       <li>Content reuse</li>
+       <li>Lower cost</li>
+       <li>Less change-management</li>
+     </ul></p>
+   </section>  
+  </body>
+</topic>

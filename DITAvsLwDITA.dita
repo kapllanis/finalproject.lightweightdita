@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qtz_bcr_pz">
+ <title>DITA vs. LwDITA</title>
+ <shortdesc>DITA and Lightweight DITA are not very different from one another. They only differ in terms of size and usability, and they are tailored toward different users.</shortdesc>
+ <conbody>
+  <p>LwDITA is simply an condensed version of DITA designed for less experienced user who might want to work only with the bare necessities of XML code. DITA is much more extensive, offering greater capabilities at the cost of having to learn more complicated elements and functions.</p>
+ <p><ul>
+  <li>LwDITA Elements= 41</li>
+  <li>DITA Elements= 600+</li>
+ </ul></p>
+ </conbody>
+</concept>
