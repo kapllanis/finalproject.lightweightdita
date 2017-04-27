@@ -7,7 +7,7 @@
   <body>
     <p><b>Lightweight DITA</b>, or "<b>LwDITA</b>", is a "slimmed down" version of the full DITA. It
     is designed to ease the implementation of DITA in workplaces and classrooms, as it has less 
-    functions than the full DITA, but uses similar syntax which can be applied to the full DITA standard..</p>
+    functions than the full DITA, but uses similar syntax which can be applied to the full DITA standard.</p>
     <p>LwDITA has only one possible topic that contains a fraction - only double digits - of the 
       element types of the full DITA standard, while the full DITA has 26 document types and over 
       600 element types. While this seems like an incovenience, it is really the basic necessities
@@ -19,6 +19,6 @@
     <p>Just like the full DITA, LwDITA also offers maps to organize your content. Maps contain elements
       such as data, map, navigation title, topic metadata, and topic reference. To comply with the overall
     compatibility of DITA and LwDITA, maps can be represented across XDITA, MDITA, and HDITA, with minor 
-    modifications/accomodations.</p>
+    modifications/accomodations. </p>
   </body>
 </topic>
