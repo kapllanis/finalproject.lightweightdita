@@ -5,6 +5,11 @@
   <shortdesc>Here you will find an introduction to Lightweight DITA, and some basic information to
     get you started.</shortdesc>
   <body>
-    <p></p>
+    <p><b>Lightweight DITA</b>, or "<b>LwDITA</b>", is a "slimmed down" version of the full DITA. It
+    is designed to ease the implementation of DITA in workplaces and classrooms, as it has less 
+    functions than the full DITA, but uses the same syntax.</p>
+    <p>LwDITA has only one possible topic that contains a fraction - only double digits - of the 
+      element types of the full DITA standard, while the full DITA has 26 document types and over 
+      600 element types.</p>
   </body>
 </topic>
