@@ -5,7 +5,9 @@
  <shortdesc>Here you will find a short history of DITA and how it has affected the world of technical 
   communication.</shortdesc>
  <conbody>
-  <p>With the invention of the <b>XML</b> - or, <b>eXtensible markup language</b> - in the mid 1990's, 
+  <p>
+   <image href="images/xml.jpg"></image>
+    With the invention of the <b>XML</b> - or, <b>eXtensible markup language</b> - in the mid 1990's, 
    IBM worked to develop a program through which XML could be processed for documentation. 
    Thus, <b>DITA</b> was born in 2001 to simplify XML and allow it to be used as a language for 
   documentation. The DITA maps were especially significant in that they organized and 
@@ -20,10 +22,13 @@
   of tasks, concepts, references, etc. which had not been done before. One interesting note about this 
   book is that it describes DITA, in detail, serving as an almost completely necessary resource for anyone
   using DITA, yet it never mentions the name "DITA", as IBM was using it internally at the time.</p>
-  <p>To make DITA a public product, the "<b>Organization for the Advancement of Structured
+  <p>
+   <image href="images/oasis.jpg"></image>
+   To make DITA a public product, the "<b>Organization for the Advancement of Structured
     Information Standards</b>, or, <b>OASIS</b>, created a committee to explore the standardization
    of DITA. This committee includes XML tool vendors, consultants on "Information Architecture and
    Content Management Systems", and others that work together to maintain the DITA standards as it
-   becomes more widely used.</p>
+   becomes more widely used.
+  <image href="images/ditaoasis.jpg"></image></p>
  </conbody>
 </concept>
