@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_kny_xfk_rz">
-  <title>conref</title>
+  <title>How to Use Conrefs</title>
   <body>
-    <p>about conrefs</p>
+    <p>Conrefs will help you in the long run to save time! With LwDITA, you can only use conrefs when referencing lists (ordered, unordered, and their items), paragraphs, sections, and tables.</p>
+    <p>Let's work step-by-step with including a conref in your LwDITA content.</p>
+    <ol>
+      <li>Let's say there is a certain concept you want to include in different sections of your content (the commonly referenced concept is usually a warning or troubleshooting of some sort).  First, create a <b>concept</b> that you will reference in a different topic.</li>
+      <li>Once you finish writing all of the information that you want to conref, now it's time to
+        look at your code.  In the third line, create a unique ID for your concept.  If you are
+        writing about a warning within your concept, maybe your ID could look like this:
+        <b>&lt;concept id="warning"></b></li>
+      <li>Next, in the paragraph element of your content, create an ID for the actual information
+        you provide.  If your warning is about a deadline, for instance, your element would look
+        like this: <b>&lt;p id="deadline"></b></li>
+      <li>Now go to the topic in which you want your conref displayed. Wherever you want your conref
+        displayed, create a new section with a paragraph.  In the paragraph's element, type
+        <b>conref=[insert concept ID here without brackets].dita#[insert concept ID here without brackets]/[insert paragraph ID here without brackets]</b></li>
+      <li>Finally, check in author mode if your information from your concept is displayed in your topic. </li>
+    </ol>
   </body>
 </topic>
