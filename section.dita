@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_kwx_3fk_rz">
-  <title>How to Use the "Section" Element</title>
+  <title>Using the "Section" Element</title>
   <body>
     <section>
     <p>You use a section element in your content when you what to divide your information into groups.  A title for your section is optional.</p>

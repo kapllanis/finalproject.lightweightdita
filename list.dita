@@ -7,19 +7,21 @@
       <p>In order to create useful content, the list element will be quite necessary!</p>
       <p>There are two main types of lists: unordered an ordered. Whichever list-type you choose is
         totally dependent on your content. For information that requires a step-by-step process, go
-        for an ordered list, which requires the tag "&lt;ol>." An unordered list is perfect for
-        information that doesn't need to be presented in a particular order. In this next example,
-        we'll look at how to create an unordered list. </p>
+        for an ordered list, which requires the tag <b>&lt;ol>.</b> On the other hand, an unordered
+        list is perfect for information that doesn't need to be presented in a particular order. In
+        this next example, we'll look at how to create an unordered list. </p>
       <image href="images/ulimage.png" width="350"/>
       <p>As shown in the image above, you can see that a list does not need to go inside of a
-        paragraph element; however, it should be inside of a section. The &lt;ul> element shows what
-        kind of list it will be, and inside of the code is where you start writing the information
-        for the list items. Let's take a look at how to include each item in your list.</p>
+        paragraph element; however, it should be inside of a section. The <b>&lt;ul></b> element
+        shows what kind of list it will be, and inside of the code is where you start writing the
+        information for the list items. If you decide your content would be better with an ordered
+        list, simply replace <b>&lt;ul></b> with <b>&lt;ol>.</b></p>
+      <p> Let's take a look at how to include each item in your list.</p>
       <image href="images/liimage.png" width="350"/>
-      <p>As shown in the image above, each list item is displayed with the tag "&lt;li>."  Each item
-        requires that element along with "&lt;p>," which is where your actual information will go.
-        Without the &lt;p> elements, your code will be wrong and will not process your information.
-      </p>
+      <p>As shown in the image above, each list item is displayed with the tag <b>&lt;li></b>. Each item
+        requires that element, along with the paragraph element, or <b>&lt;p>.</b> This is where your
+        actual information will go. Without the <b>&lt;p></b> elements, your code will be wrong and will
+        not process your information. </p>
     </section>
     <section>
       <p conref="remember.dita#remember/audience"/>

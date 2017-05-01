@@ -4,8 +4,9 @@
  <title>Elements</title>
  <shortdesc>An introduction to the different tags and elements featured in LwDITA.</shortdesc>
  <conbody>
-  <p>According to the working draft of the Oasis article <i>Lightweight DITA: An Introduction</i>, here is a specific and strict set of elements that you can use within LwDITA.  These are the only elements you can use.
-   <ul>
+  <p>According to the working draft of the Oasis article <i>Lightweight DITA: An Introduction</i>,
+   there is a specific and strict set of elements that you can utilize within LwDITA. These are the
+   only elements you can use. <ul>
     <li>Alternate text</li>
     <li>Body</li>
     <li>Cross reference</li>
@@ -29,6 +30,6 @@
     <li>Topic</li>
    </ul>
   </p>
-  <p>We will be looking into two of the most common elements: <b>Section</b> and <b>List</b>.  We will also introduce how to use two useful tools from full DITA - <b>Conref</b> and <b>Keyref</b>. </p>
+  <p>We will be looking into two of the most common elements: <b>Section</b> and <b>List</b>.  We will also show you how to use a useful tool from full DITA - the <b>Conref</b>. </p>
  </conbody>
 </concept>
