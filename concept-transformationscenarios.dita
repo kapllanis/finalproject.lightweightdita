@@ -4,10 +4,7 @@
  <title>Transformation Scenarios</title>
  <shortdesc>After creating a map, you can transform your content into several outputs.</shortdesc>
  <conbody>
-  <p>The two most common transformation scenarios include PDFs and WebHelp deliverables. You can add
-   filters to a transformation in order to exclude information on a deliverable for one user, while
-   still keeping the content there in case you need to include that  information on a deliverable
-   for a different user. The following topics will provide instructions on how to add filters during
-   a transformation scenario, and how to create a PDF or WebHelp responsive from a LwDITA map. </p>
+  <p>The two most common transformation scenarios include PDFs and WebHelp deliverables.The following topics will provide instructions 
+   on how to transform a LwDITA map into a PDF or WebHelp responsive deliverable.</p>
  </conbody>
 </concept>
