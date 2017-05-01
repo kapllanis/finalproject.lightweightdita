@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
- <topicref href="xdita-whatisdita.dita">
-  <topicref href="xdita-ditahistory.dita">
-   <topicref href="xdita-introlwdita">
-    <topicref href="xdita-openrepository.dita">
-    <topicref href="writing.dita">
+ <title>Using Lightweight DITA</title>
+ 
+ <topicmeta>
+  <author>Saige McGovern</author>
+  <author>Nicole Kurka</author>
+  <author>Stephani Kapllani</author>
+  <author>Owen Forrester</author>
+ </topicmeta>
+ 
+ <topicref href="xdita-whatisdita.dita"/>
+  <topicref href="xdita-ditahistory.dita"/>
+  <topicref href="xdita-introlwdita.dita"/>
+    <topicref href="xdita-openrepository.dita"/>
+    <topicref href="writing.dita"/>
   <topicref href="topicwriting.dita"/>
- </topicref>
- <topicref href="tags.dita">
+ <topicref href="tags.dita"/>
   <topicref href="section.dita"/>
   <topicref href="list.dita"/>
   <topicref href="conref.dita"/>
- </topicref>
  <topicref href="remember.dita"/>
-    </topicref>
 </map>
