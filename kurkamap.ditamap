@@ -11,6 +11,10 @@
  </topicmeta>
  
  <topichead navtitle="Introduction">
+     <topicmeta>
+       <shortdesc>Here you will find information on the origins of DITA and Lightweight DITA, as well as
+   some background information.</shortdesc>
+     </topicmeta>
   <topicref href="xdita-whatisdita.dita" navtitle="What is DITA?"/>
   <topicref href="xdita-ditahistory.dita" navtitle="History of DITA"/>
   <topicref href="xdita-introlwdita.dita" navtitle="Intro to Lightweight DITA"/>
@@ -19,11 +23,19 @@
  </topichead>
  
  <topichead navtitle="Why Lightweight DITA?">
+  <topicmeta>
+   <shortdesc>Here you will find information about Lightweight DITA when compared to other authoring modes
+   like DITA and Markdown.</shortdesc>
+  </topicmeta>
   <topicref href="ditavslwdita.dita" navtitle="DITA vs. LwDITA"/>
   <topicref href="mdvslwdita.dita" navtitle="Markdown vs. LwDITA"/>
  </topichead>
  
  <topichead navtitle="Using Lightweight DITA">
+  <topicmeta>
+   <shortdesc>Here you will find information about writing in Lightweight DITA, from general writing tips to
+   working with individual elements/tags.</shortdesc>
+  </topicmeta>
   <topicref href="writing.dita" navtitle="Writing LwDITA"/>
   <topicref href="topicwriting.dita" navtitle="Topic-Based Writing"/>
   <topicref href="tags.dita" navtitle="Elements in LwDITA"/>
@@ -34,6 +46,9 @@
  </topichead>
  
  <topichead navtitle="Outputs in Lightweight DITA">
+  <topicmeta>
+   <shortdesc>Here you will find information about creating maps and outputs/deliverables in Lightweight DITA.</shortdesc>
+  </topicmeta>
   <topicref href="maps.dita" navtitle="How to Create Maps in LwDITA"/>
   <topicref href="transformation.dita" navtitle="Transformation Scenarios"/>
   <topicref href="webhelp.dita" navtitle="How to Create a Webhelp Responsive"/>
@@ -41,6 +56,10 @@
  </topichead> 
  
  <topichead navtitle="Further Information and Experience">
+  <topicmeta>
+   <shortdesc>Here you will find further information about Lightweight DITA, including future plans, interviews with users,
+references used in the making of this manual, and a source for futher reading.</shortdesc>
+  </topicmeta>
   <topicref href="futurelwdita.md" format="markdown" navtitle="The Future of LwDITA"/>
   <topicref href="interview2.md" format="markdown" navtitle="Interview with Scriptorium Publishing Intern"/>
   <topicref href="references.md" format="markdown" navtitle="References"/> 
