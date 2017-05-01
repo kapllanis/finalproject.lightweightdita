@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reference">
+ <title>DITA Best Practices</title>
+ <conbody>
+  <p id="dita">For further in-depth information on the topic above, please see the textbook -
+        <i>DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA. </i>All
+      images used in this project are referenced from this text.. </p>
+ </conbody>
+</concept>

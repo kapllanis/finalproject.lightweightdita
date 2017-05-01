@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_jpc_j51_sz">
- <title></title>
- <shortdesc></shortdesc>
+ <title>Transformation Scenarios</title>
+ <shortdesc>After creating a map, you can transform your content into several outputs.</shortdesc>
  <conbody>
-  <p></p>
+  <p>The two most common transformation scenarios include PDFs and WebHelp deliverables. You can add
+   filters to a transformation in order to exclude information on a deliverable for one user, while
+   still keeping the content there in case you need to include that  information on a deliverable
+   for a different user. The following topics will provide instructions on how to add filters during
+   a transformation scenario, and how to create a PDF or WebHelp responsive from a LwDITA map. </p>
  </conbody>
 </concept>

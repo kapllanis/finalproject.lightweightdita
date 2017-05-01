@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_hyf_b51_sz">
-  <title></title>
+  <title>Linking In Lightweight DITA</title>
+  <shortdesc>There are several different types of links available for use to help with retrivability
+    and easy navigation of your content. These links include hiearchial links, inline links, related
+    links, and collection type links.</shortdesc>
   <body>
-    <p></p>
+    <section>
+      <title>Hierarchial Links</title>
+      <p>These nested topics reveal the navigation of information through a topic hierarchy: parent,
+        child, and sibling topics. They are automatically linked to each other by creating this type
+        of link. <image id="hierarchiallinks"/></p>
+    </section>
+    <section>
+      <title>Inline Links</title>
+      <p> These type of links connect users to related information by being inserted in the text of
+        the topic. This is done by using the &lt;xref> element. <image id="inlinelinks"/></p>
+    </section>
+    <section>
+      <title>Related Links</title>
+      <p>These links are inserted in a relationship table. Because these links are less common and
+        harder to create, see Chapter 7 in the text referenced below to if you need to learn more
+        about them. </p>
+    </section>
+    <section>
+      <title>Collection Type Links</title>
+      <p>These type of links are set in the DITA map because they create links among a group of
+        nested topics. You can apply this attriubte on &lt;topicref> and &lt;topicgroup> elements in
+        a DITA map. For more information on sequence, choice, unordered, and family collection
+        types, see Chapter 7 in the text referenced below.  </p>
+    </section>
+    <section>
+      <p conref="concept-reference.dita#reference/dita"/>
+    </section>
   </body>
+
 </topic>
