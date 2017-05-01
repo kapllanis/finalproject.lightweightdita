@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ylw_l51_sz">
-  <title></title>
+  <title>How to Create a WebHelp Responsive </title>
+  <shortdesc>The following topic includes information on how to transform the content in a LwDITA map into a WebHelp Responsive.</shortdesc>
   <body>
-    <p></p>
+    <p>
+      <ol id="ol_cpy_y5h_tz">
+        <li>Open the LwDITA Map file. </li>
+        <li>Click on the button with a wrench and a red arrow pointing upwards. </li>
+        <li>Select the check box next to the title, "WebHelp Resonsive." <image
+            id="webhelptransformation.png" href="images/webhelptransformation.png"/></li>
+        <li>Click edit in order to chose a theme. The pop-up box should look like this. <image
+            id="webhelpthemes.png" href="images/webhelpthemes.png"/>
+        </li>
+        <li>Finally, select apply associated. </li>
+      </ol>
+    </p>
   </body>
 </topic>
