@@ -10,21 +10,27 @@
   <author>Owen Forrester</author>
  </topicmeta>
  
- <topicref href="xdita-whatisdita.dita"/>
-  <topicref href="xdita-ditahistory.dita"/>
-  <topicref href="xdita-introlwdita.dita"/>
-    <topicref href="xdita-openrepository.dita"/>
-    <topicref href="writing.dita"/>
-  <topicref href="topicwriting.dita"/>
- <topicref href="tags.dita"/>
+ <topicref href="xdita-whatisdita.dita" navtitle="What is DITA?"/>
+  <topicref href="xdita-ditahistory.dita" navtitle="History of DITA"/>
+  <topicref href="xdita-introlwdita.dita" navtitle="Intro to Lightweight DITA"/>
+    <topicref href="xdita-openrepository.dita" navtitle="Lightweight DITA Open Repository"/>
+ <topicref href="advantages.dita" navtitle="Advantages to LwDITA"/>
+ <topicref href="ditavslwdita.dita" navtitle="DITA vs. LwDITA"/>
+ <topicref href="mdvslwdita.dita" navtitle="Markdown vs. LwDITA"/>
+    <topicref href="writing.dita" navtitle="Writing LwDITA"/>
+  <topicref href="topicwriting.dita" navtitle="Topic-Based Writing"/>
+ <topicref href="tags.dita" navtitle="Elements in LwDITA"/>
   <topicref href="section.dita"/>
   <topicref href="list.dita"/>
   <topicref href="conref.dita"/>
+ <topicref href="linking.dita"/>
+ <topicref href="maps.dita"/>
+ <topicref href="transformation.dita"/>
+ <topicref href="webhelp.dita"/>
+<topicref href="pdf.dita"/>
+ <topicref href="futurelwdita.md" format="markdown"/>
+ <topicref href="interview2.md" format="markdown"/>
+ <topicref href="references.md" format="markdown"/> 
  <topicref href="remember.dita"/>
-  <topicref href="references.md" format="markdown"/>
-  <topicref href="advantages.dita"/>
-  <topicref href="futurelwdita.md" format="markdown"/>
-  <topicref href="ditavslwdita.dita"/>
-  <topicref href="markdownvslwdita.dita"/>
-  <topicref href="noelleinterview.md" format="markdown"/>
+ <topicref href="concept-referencetext.dita"/>
 </map>
