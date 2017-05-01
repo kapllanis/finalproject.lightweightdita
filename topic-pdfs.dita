@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_uff_q51_sz">
-  <title></title>
+  <title>How to Create a PDF</title>
+  <shortdesc>The following topic includes information on how to transform the content in a LwDITA map into a PDF deliverable.</shortdesc>
   <body>
-    <p></p>
+    <p>
+      <ol id="ol_smm_5vh_tz">
+        <li>Open the LwDITA map. </li>
+        <li>Click on the button with the wrench a wrench and red arrow pointing upwards. </li>
+        <li>Select the check box next to the title, "PDF."<image id="image_wdp_hwh_tz"
+            href="images/pdftransformation.png"/></li>
+        <li>Select "Apply Associated." </li>
+      </ol>
+    </p>
   </body>
 </topic>
