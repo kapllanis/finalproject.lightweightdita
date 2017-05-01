@@ -2,7 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title/>
- <topicref href="writing.dita">
+ <topicref href="xdita-whatisdita.dita">
+  <topicref href="xdita-ditahistory.dita">
+   <topicref href="xdita-introlwdita">
+    <topicref href="xdita-openrepository.dita">
+    <topicref href="writing.dita">
   <topicref href="topicwriting.dita"/>
  </topicref>
  <topicref href="tags.dita">
@@ -11,4 +15,5 @@
   <topicref href="conref.dita"/>
  </topicref>
  <topicref href="remember.dita"/>
+    </topicref>
 </map>
