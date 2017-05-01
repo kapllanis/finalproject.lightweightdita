@@ -10,27 +10,33 @@
   <author>Owen Forrester</author>
  </topicmeta>
  
+ <topichead navtitle="Introduction">
  <topicref href="xdita-whatisdita.dita" navtitle="What is DITA?"/>
   <topicref href="xdita-ditahistory.dita" navtitle="History of DITA"/>
   <topicref href="xdita-introlwdita.dita" navtitle="Intro to Lightweight DITA"/>
     <topicref href="xdita-openrepository.dita" navtitle="Lightweight DITA Open Repository"/>
  <topicref href="advantages.dita" navtitle="Advantages to LwDITA"/>
+ </topichead>
+ 
+ <topichead navtitle="Why Lightweight DITA?">
  <topicref href="ditavslwdita.dita" navtitle="DITA vs. LwDITA"/>
  <topicref href="mdvslwdita.dita" navtitle="Markdown vs. LwDITA"/>
+ </topichead>
+ 
     <topicref href="writing.dita" navtitle="Writing LwDITA"/>
   <topicref href="topicwriting.dita" navtitle="Topic-Based Writing"/>
  <topicref href="tags.dita" navtitle="Elements in LwDITA"/>
-  <topicref href="section.dita"/>
-  <topicref href="list.dita"/>
-  <topicref href="conref.dita"/>
- <topicref href="linking.dita"/>
- <topicref href="maps.dita"/>
- <topicref href="transformation.dita"/>
- <topicref href="webhelp.dita"/>
-<topicref href="pdf.dita"/>
- <topicref href="futurelwdita.md" format="markdown"/>
- <topicref href="interview2.md" format="markdown"/>
- <topicref href="references.md" format="markdown"/> 
- <topicref href="remember.dita"/>
- <topicref href="concept-referencetext.dita"/>
+  <topicref href="section.dita" navtitle="How to use the 'Section' Element"/>
+  <topicref href="list.dita" navtitle="How to use the 'List' Element"/>
+  <topicref href="conref.dita" navtitle="How to use the 'Conref' Element"/>
+ <topicref href="linking.dita" navtitle="How to Link in LwDITA"/>
+ <topicref href="maps.dita" navtitle="How to Create Maps in LwDITA"/>
+ <topicref href="transformation.dita" navtitle="Transformation Scenarios"/>
+ <topicref href="webhelp.dita" navtitle="How to Create a Webhelp Responsive"/>
+<topicref href="pdf.dita" navtitle="How to Create a PDF"/>
+ <topicref href="futurelwdita.md" format="markdown" navtitle="The Future of LwDITA"/>
+ <topicref href="interview2.md" format="markdown" navtitle="Interview with Scriptorium Publishing Intern"/>
+ <topicref href="references.md" format="markdown" navtitle="References"/> 
+ <topicref href="remember.dita" navtitle="Note from the Authors: Remember your Audience"/>
+ <topicref href="concept-referencetext.dita" navtitle="Further References and Reading"/>
 </map>
