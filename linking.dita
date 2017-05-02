@@ -10,12 +10,12 @@
       <title>Hierarchial Links</title>
       <p>These nested topics reveal the navigation of information through a topic hierarchy: parent,
         child, and sibling topics. They are automatically linked to each other by creating this type
-        of link. <image id="hierarchiallinks"/></p>
+        of link. </p>
     </section>
     <section>
       <title>Inline Links</title>
       <p> These type of links connect users to related information by being inserted in the text of
-        the topic. This is done by using the &lt;xref> element. <image id="inlinelinks"/></p>
+        the topic. This is done by using the &lt;xref> element. </p>
     </section>
     <section>
       <title>Related Links</title>
