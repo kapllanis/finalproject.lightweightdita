@@ -19,14 +19,14 @@
   <topicref href="xdita-ditahistory.dita" navtitle="History of DITA"/>
   <topicref href="xdita-introlwdita.dita" navtitle="Intro to Lightweight DITA"/>
   <topicref href="xdita-openrepository.dita" navtitle="Lightweight DITA Open Repository"/>
-  <topicref href="advantages.dita" navtitle="Advantages to LwDITA"/>
- </topichead>
+  </topichead>
  
  <topichead navtitle="Why Lightweight DITA?">
   <topicmeta>
    <shortdesc>Here you will find information about Lightweight DITA when compared to other authoring modes
    like DITA and Markdown.</shortdesc>
   </topicmeta>
+  <topicref href="advantages.dita" navtitle="Advantages to LwDITA"/>
   <topicref href="ditavslwdita.dita" navtitle="DITA vs. LwDITA"/>
   <topicref href="mdvslwdita.dita" navtitle="Markdown vs. LwDITA"/>
  </topichead>
@@ -43,6 +43,7 @@
   <topicref href="list.dita" navtitle="How to use the 'List' Element"/>
   <topicref href="conref.dita" navtitle="How to use the 'Conref' Element"/>
   <topicref href="linking.dita" navtitle="How to Link in LwDITA"/>
+  <topicref href="concept-referencetext.dita" navtitle="References for Using Lightweight DITA"/>
  </topichead>
  
  <topichead navtitle="Outputs in Lightweight DITA">
@@ -58,12 +59,11 @@
  <topichead navtitle="Further Information and Experience">
   <topicmeta>
    <shortdesc>Here you will find further information about Lightweight DITA, including future plans, interviews with users,
-references used in the making of this manual, and a source for futher reading.</shortdesc>
+references used in the making of this manual, and a reminder from the authors.</shortdesc>
   </topicmeta>
   <topicref href="futurelwdita.md" format="markdown" navtitle="The Future of LwDITA"/>
   <topicref href="interview2.md" format="markdown" navtitle="Interview with Scriptorium Publishing Intern"/>
   <topicref href="references.md" format="markdown" navtitle="References"/> 
   <topicref href="remember.dita" navtitle="Note from the Authors: Remember your Audience"/>
-  <topicref href="concept-referencetext.dita" navtitle="Further References and Reading"/>
  </topichead> 
 </map>
