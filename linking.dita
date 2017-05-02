@@ -31,7 +31,7 @@
         types, see Chapter 7 in the text referenced below.  </p>
     </section>
     <section>
-      <p conref="concept-reference.dita#reference/dita"/>
+      <p conref="concept-referencetext.dita#reference/dita"/>
     </section>
   </body>
 
